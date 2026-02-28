@@ -1,4 +1,4 @@
-# 🤖 AI/ML Internship — Project Portfolio
+# 🤖 AI/ML Internship
 
 Three end-to-end machine learning projects built during the internship — covering data exploration, predictive modelling, and large language model fine-tuning.
 
